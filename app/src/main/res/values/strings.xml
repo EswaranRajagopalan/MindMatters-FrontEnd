@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">MindMatters</string>
+    <string name="next_quiz_header">Next quiz on: </string>
+    <string name="next_quiz_date"><u>Placeholder</u></string>
+    <string name="quiz_submitted">Click the button to be redirected back to <br></br> the home screen. </string>
+    <string name="settings">Settings</string>
+    <string name="oops">Oops!</string>
+    <string name="connection_error">Seems like you are not connected to the <br></br> internet. <br></br><br></br>Please give it another try once you have <br></br>connected to the internet.</string>
+    <string name="title_activity_get_help">Get Help</string>
+    <string name="resources">Resources</string>
+    <string name="Mindfulness">MINDFULNESS</string>
+    <string name="Mindfultext">Here are some resources to help you focus your awareness on the present and center your thoughts on the now</string>
+    <string name="education">EDUCATION</string>
+    <string name="educationtxt">Here are some interesting reads that might be helpful for your journey to better mental health</string>
+    <string name="recommended">Here are some recommended resources based on your profile.</string>
+    <string name="recommend">Here are some recommended resources based on your profile</string>
+    <string name="call">Call</string>
+    <string name="visit">Visit</string>
+    <string name="info_1">National Care Hotline \nTel: 1800-202-6868</string>
+    <string name="description_1">Worried, stressed or anxious during COVID-19? Speak to our counsellors today for support. \n</string>
+    <string name="info_2">IMH Mental Health Hotline \nTel: 6389 2222</string>
+    <string name="description_2">If you are facing a mental health crisis, please call our Helpline or seek medical help at our 24-hour Emergency Services located in our hospital.  \n</string>
+    <string name="info_3">Samaritans of Singapore \nTel: 1800-221-4444</string>
+    <string name="description_3">We provide round the clock emotional support for those in distress  \n</string>
+    <string name="info_4">Silver Ribbon Singapore \nTel: 6385 3714</string>
+    <string name="description_4">Launched by Former President S R Nathan on 4 Feb 2006 to combat mental health stigma and encourage early treatment  \n</string>
+    <string name="info_5">TouchLine(Counseling) \nTel: 1800-377-2252</string>
+    <string name="description_5">Our team of qualified counselors and youth workers will be able to provide face to face counselling, group mentoring, peer and community support and family therapy sessions  \n</string>
+    <string name="info_6">Li Meng \nTel: 9827-6591</string>
+    <string name="description_6">Talk to me if you need a listening ear!  \n</string>
+    <string name="how_are_you_">How are you feeling today:</string>
+    <string name="how_Well">How well did you sleep last night:</string>
+    <string name="hours_0f_Sleep">How many hours did you sleep last night:</string>
+    <string name="daily_quiz">Daily Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="currentlyfeeling">Current Status</string>
+    <string name="currentprofile">Profile</string>
+
+    <string name="facebook_app_id">4194427213922309</string>
+    <string name="fb_login_protocol_scheme">fb4194427213922309</string>
+    <string name="server_client_id">219115013472-673vqc6jb2shbumc4ilqrdste402a6jj.apps.googleusercontent.com</string>
+
+    <string name="averageslp">Average Sleep</string>
+    <string name="avgmood">Average Mood</string>
+    <string name="afraid">Ever felt afraid and alone? Some of our resources here may be able to help.</string>
+    <string name="sleep">Simple exercises to bring a peace of mind, making way for better sleep each night.</string>
+    <string name="depressed">You matter to us and we will do our best to support you. Some of these practices here might offer some solace in these trying times.</string>
+    <string name="anxious">There are times when anxiety gets the better of us. Some of our practices here may help in easing anxious nerves.</string>
+    <string name="panic">Practices that give a quick run through on the what and how-to in easing panic </string>
+    <string name="ocd">Obsessive thoughts and compulsive behaviors can become so consuming they interfere with your daily life. Our practices may help give a better understanding and how to cope with OCD.</string>
+    <string name="onboarding_resources">View recommended resources based on your profile</string>
+    <string name="onboarding_get_help">View and have immediate access to helplines</string>
+    <string name="onboarding_take_quiz">Complete questionnaire, get access to recommended resources</string>
+    <string name="onboarding_daily_quiz">Take daily quiz to monitor mental health (logged in user only)</string>
+    <string name="onboarding_dashboard">Log in if you want to view personalized data on your sleep and wellness patterns!</string>
+
+</resources>
